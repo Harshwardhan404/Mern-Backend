@@ -1,4 +1,4 @@
-// require('dotenv').config({path : './env'})
+
 import app from './app.js';
 import * as dotenv from 'dotenv'
 dotenv.config()
